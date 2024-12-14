@@ -6,6 +6,7 @@ Nous disposons de deux jeux de données distincts :
 2. Un dataset sur les types de forêt dans le Colorado (problème de classification).  
 
 L'objectif est de développer des modèles prédictifs adaptés à chacun de ces contextes.
+(ce depot est une copie du (depot)[https://github.com/PabloHueso/NYC-taxis-tips-and-forest-cover-type] 
 
 ---
 
